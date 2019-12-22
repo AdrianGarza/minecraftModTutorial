@@ -6,7 +6,5 @@ import net.minecraftforge.fml.common.Mod;
 public class Main {
 
 	
-	public static final String modid ="firstshittymod";
-	
-
+	public static final String MOD_ID ="firstshittymod";
 }
