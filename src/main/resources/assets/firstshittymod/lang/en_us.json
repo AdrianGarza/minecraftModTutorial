@@ -1,4 +1,8 @@
 {
 	"item.firstshittymod.shity_dust1":"Shity Dust",
-	"item.firstshittymod.shitanium":"Shitanium"
+	"item.firstshittymod.shitanium":"Shitanium",
+	"item.firstshittymod.shity_food":"Shity Food",
+	
+	"block.firstshittymod.shity_ore":"Shity Ore",
+	"block.firstshittymod.shity_block":"Shity Block"
 }
