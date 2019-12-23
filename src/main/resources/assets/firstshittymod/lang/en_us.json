@@ -3,6 +3,13 @@
 	"item.firstshittymod.shitanium":"Shitanium",
 	"item.firstshittymod.shity_food":"Shity Food",
 	
+	"item.firstshittymod.shity_axe":"Shity Axe",
+	"item.firstshittymod.shity_pickaxe":"Shity Pickaxe",
+	"item.firstshittymod.shity_sword":"Shity Sword",
+	"item.firstshittymod.shity_shovel":"Shity Shovel",
+	"item.firstshittymod.shity_hoe":"Shity Hoe",
+
+	
 	"block.firstshittymod.shity_ore":"Shity Ore",
 	"block.firstshittymod.shity_block":"Shity Block"
 }
